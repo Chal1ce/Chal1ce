@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a NLP Engineer in HK. Exploring the frontiers of language technology to build intelligent solutions.
+I'm a NLP Engineer. Exploring the frontiers of language technology to build intelligent solutions.
 
 You can check out my personal development website here:
 - Blog: [Chal1ce](https://www.chal1ce.cn)
